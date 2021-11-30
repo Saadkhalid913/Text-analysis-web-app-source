@@ -1,0 +1,1 @@
+export interface Sentiment {name: string, percentage: number};
