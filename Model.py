@@ -111,7 +111,7 @@ def MakePred(s):
   return final
 
 if __name__ == "__main__":
-  for sent in MakePred("this was a pretty bad model. i felt that this wont help me make a good replicate"):
+  for sent in MakePred("Today was an excellent day!"):
     print(sent)
 
 
